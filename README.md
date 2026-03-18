@@ -2,6 +2,8 @@
 
 **Flight Intelligence MCP Server** — 8 tools | Part of [ToolOracle](https://tooloracle.io)
 
+[![FlightOracle MCP server](https://glama.ai/mcp/servers/ToolOracle/flightoracle/badges/card.svg)](https://glama.ai/mcp/servers/ToolOracle/flightoracle)
+
 ## Connect
 ```bash
 npx -y mcp-remote https://tooloracle.io/flight/mcp/
