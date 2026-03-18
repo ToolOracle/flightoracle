@@ -1,0 +1,6 @@
+{
+  "name": "FlightOracle",
+  "description": "Flight Intelligence MCP \u2014 search, cheapest dates, multi-city, airline compare",
+  "endpoint": "https://tooloracle.io/flight/mcp/",
+  "transport": "streamable-http"
+}
