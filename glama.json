@@ -1,6 +1,14 @@
 {
   "name": "FlightOracle",
-  "description": "Flight Intelligence MCP \u2014 search, cheapest dates, multi-city, airline compare",
+  "description": "Flight Intelligence \u2014 live status, search, airport info, airline data, delay predictions via MCP",
+  "repository": "https://github.com/ToolOracle/flightoracle",
   "endpoint": "https://tooloracle.io/flight/mcp/",
-  "transport": "streamable-http"
+  "tools": 8,
+  "license": "MIT",
+  "author": "FeedOracle Technologies",
+  "tags": [
+    "travel",
+    "mcp",
+    "ai-agent"
+  ]
 }
